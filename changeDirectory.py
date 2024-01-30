@@ -36,8 +36,8 @@ def organize_files(source_directory, destination_directory):
 
 if __name__ == "__main__":
     # Specify the source and destination directories
-    source_dir = '/Users/aidahalbaqir/Downloads'
-    destination_dir = '/Users/aidahalbaqir/NewDownloads'
+     source_dir = '/path/to/source_directory'
+     destination_dir = '/path/to/destination_directory'
 
     # Call the function to organize files
     organize_files(source_dir, destination_dir)
